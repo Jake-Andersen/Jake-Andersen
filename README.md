@@ -1,0 +1,5 @@
+- Hello, I’m @Jake-Andersen
+- Im currently a student persuing a Computer Science major with an interest in Artifical Intelligence and Machine Learning
+- I am currently in my junior year and have just completed an Introduction to Artificial Intelligence class, with plans on advancing further down the path of Artifical Intelligence and Machine Learning
+- At the moment I am mostly looking to further my persuit of CS and possibly specifically AI related careers and further oppertunities to advance my knowledge of the field
+- As such, I am at the moment just looking to share the projects and assigmnets that I have worked on and contributed to in my studies and free time that I feel represent my interest and skill base
